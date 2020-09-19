@@ -2,3 +2,6 @@
 
 ## Para criar as tabelas:
 $ php artisan migrate
+
+## Para instalar as dependências:
+$ composer update
